@@ -155,7 +155,7 @@ treatment-related information.
 
 ---
 
-# 🧠 Mental Health Stress Detection System
+# 🧠 Mansik santulan score
 
 ### 📊 Machine Learning-based stress prediction application
 
@@ -178,77 +178,22 @@ and predict stress levels using a trained Machine Learning model.
 `Python`
 `Pandas`
 `Scikit-learn`
+`matplotlib`
+`Deep Learning`
 `FastAPI`
 `HTML`
 `CSS`
 `JavaScript`
 `Machine Learning`
 
-### 🔗 Project
+### 🔗 Project Links
 
-**[🧠 View Project Repository](#)**
+<p>
+<a href="https://github.com/SanaShaikh29/Mansik-santulan-Score">
+<img src="https://img.shields.io/badge/🧠%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
 
----
-
-# 📚 Data Science Journey
-
-```text
-                       📊 DATA
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │  Data Collection │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │  Data Cleaning  │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │      SQL        │
-                 │   & Databases   │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │       EDA       │
-                 │ Exploratory     │
-                 │ Data Analysis   │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Data             │
-                 │ Visualization    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │   Statistics    │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Machine Learning│
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Deep Learning   │
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Model Evaluation│
-                 └────────┬────────┘
-                          │
-                          ▼
-                 ┌─────────────────┐
-                 │ Model Deployment│
-                 └────────┬────────┘
-                          │
-                          ▼
-                    🚀 REAL-WORLD
-                      SOLUTIONS
+<a href="https://mansik-santulan-score-8.onrender.com/">
+<img src="https://img.shields.io/badge/🚀%20Live-Demo-36BCF7?style=for-the-badge"/>
+</a>
+</p>
