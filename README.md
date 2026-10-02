@@ -152,8 +152,10 @@ treatment-related information.
 ### 🔗 Project
 
 **[🌱 View Project Repository](#)**
+<p>
+<a href="https://github.com/SanaShaikh29/AI_plant_disease_detection_and_treatment"></a>
+</p>
 
----
 
 # 🧠 Mansik santulan score
 
